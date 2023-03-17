@@ -26,7 +26,7 @@ jobs:
 
       - name: Build
         run: |
-          python3 mastodon-archive.py --instance https://ricard.social        \
+          python3 mastodon-archive.py --instance https://dbcohen.rocks        \
               --access-token ${{ secrets.ACCESS_TOKEN }}
 
       - name: Deploy 🚀
