@@ -60,13 +60,13 @@ header = """
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ricard's archive | ricard.social</title>
+  <title>Dave's archive | dbcohen.rocks</title>
   <link rel="stylesheet" href="styles.css">
   <meta name="robots" content="noindex">
 </head>
 <body>
   <header>
-    <h1>Archive for Ricard's posts on ricard.social</h1>
+    <h1>Archive for Dave's posts on dbcohen.rocks</h1>
     <h2>Number of posts: %s</h2>
   </header>
   <main>""" % counter
